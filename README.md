@@ -12,7 +12,7 @@
 ## 🌼 About Me
 - 🎯 Focusing on **Backend Development**
 - 💻 I love building **APIs**, databases, and exploring new tech
-- 📚 Currently focusing on: * Java + Spring Boot**
+- 📚 Currently focusing on: **Java + Spring Boot**
 - 🧠 Interested in **algorithms and system design**
 - 🌱 Always excited to learn something new!
 
